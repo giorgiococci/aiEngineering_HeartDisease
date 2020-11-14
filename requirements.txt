@@ -1,0 +1,7 @@
+numpy==1.19.3
+pytz
+six
+python-dateutil
+pandas
+scikit-learn
+scipy
